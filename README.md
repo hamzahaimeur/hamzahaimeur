@@ -2,7 +2,7 @@
 
   <img src="/brand.png" alt="Portfolio banner" width="100%" />
 
-  <h1>Assalamu Alaikum wa Rahmatullahi wa Barakatuh 👋, I'm Hamza Haimeur</h1>
+  <h3>Assalamu Alaikum wa Rahmatullahi wa Barakatuh 👋, I'm Hamza Haimeur</h3>
 
   <p>
     Front-End Developer building modern, responsive, and high-performance web applications.
