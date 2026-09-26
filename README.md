@@ -43,7 +43,6 @@ Continuously learning new technologies with the goal of becoming a Full-Stack De
 - React  
 - Next.js  
 - Tailwind CSS  
-- Vue.js — learning  
 
 ### AI
 - AI-assisted development (Claude, ChatGPT)  
