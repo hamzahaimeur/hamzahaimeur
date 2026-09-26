@@ -56,7 +56,7 @@ Continuously learning new technologies with the goal of becoming a Full-Stack De
 
 ## ⭐ Featured Projects
 
-### 🌐 HDev Portfolio
+### 🌐 Hamza Haimeur My Website Portfolio
 A modern personal portfolio built with React, Next.js and Tailwind to showcase my skills, projects, and growth as a Front-End Developer.
 
 ### 🛒 Amana
@@ -69,6 +69,9 @@ An admin dashboard template.
 A real estate web platform.
 
 ### 💎 Velora
+An HTML/CSS/JS web template.
+
+### 💎 Hdev-Portfolio
 An HTML/CSS/JS web template.
 
 ---
