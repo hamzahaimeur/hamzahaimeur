@@ -5,7 +5,7 @@
   <h2>Assalamu Alaikum wa Rahmatullahi wa Barakatuh 👋, I'm Hamza Haimeur</h2>
 
   <p>
-    Front-End Developer building modern, responsive, and high-performance web applications.
+    Front-End Developer building modern, responsive, and high-performance web applications — enhanced with AI.
   </p>
 
   <p>📍 Casablanca, Morocco</p>
@@ -16,22 +16,22 @@
 
 ## 🧠 About Me
 
+Front-End Developer passionate about building modern, responsive web interfaces with React, Next.js and Tailwind CSS.
 
-Front-End Developer passionate about building modern, responsive web interfaces. 
+I actively integrate AI tools into my workflow — from coding assistance to building AI-powered features — to ship faster and smarter.
 
-Currently improving my JavaScript skills and continuously learning new technologies 
-
-with the goal of becoming a Full-Stack Developer. 
+Continuously learning new technologies with the goal of becoming a Full-Stack Developer.
 
 ---
 
 ## 🧠 What I Build
 
 • Modern responsive websites  
+• AI-powered web applications  
 • Interactive user interfaces  
 • Landing pages and portfolios  
+• E-commerce stores and admin dashboards  
 • UI components and design systems  
-• Front-End web applications  
 
 ---
 
@@ -39,7 +39,15 @@ with the goal of becoming a Full-Stack Developer.
 
 ### Front-End
 - HTML5, CSS3  
-- JavaScript (ES6+) — currently learning  
+- JavaScript (ES6+)  
+- React  
+- Next.js  
+- Tailwind CSS  
+- Vue.js — learning  
+
+### AI
+- AI-assisted development (Claude, ChatGPT)  
+- Integrating AI features into web apps  
 
 ### Tools
 - Git & GitHub  
@@ -50,7 +58,19 @@ with the goal of becoming a Full-Stack Developer.
 ## ⭐ Featured Projects
 
 ### 🌐 HDev Portfolio
-A modern personal portfolio built to showcase my skills, projects, and growth as a Front-End Developer.
+A modern personal portfolio built with React, Next.js and Tailwind to showcase my skills, projects, and growth as a Front-End Developer.
+
+### 🛒 Amana
+An e-commerce store built with Next.js, React and Tailwind CSS.
+
+### 📊 Nova
+An admin dashboard template.
+
+### 🏠 Diyar Real Estate
+A real estate web platform.
+
+### 💎 Velora
+An HTML/CSS/JS web template.
 
 ---
 
@@ -72,11 +92,11 @@ hamzahaimeur01@gmail.com
 
 ## 🤝 Open To
 
-• Full-time opportunities
-• Freelance projects
+• Full-time opportunities  
+• Freelance projects  
 
 ---
 
 ## ⚡ Quote
 
-> “Code is not just syntax, it's creativity turned into reality.” 
+> "Code is not just syntax, it's creativity turned into reality."
